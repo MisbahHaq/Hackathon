@@ -1,6 +1,6 @@
 {
-    "name": "foodgo",
-    "short_name": "foodgo",
+    "name": "food_delivery_app",
+    "short_name": "food_delivery_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

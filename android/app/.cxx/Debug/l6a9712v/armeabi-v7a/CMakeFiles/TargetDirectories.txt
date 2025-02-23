@@ -1,0 +1,2 @@
+D:/hack/Hackathon/android/app/.cxx/Debug/l6a9712v/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/hack/Hackathon/android/app/.cxx/Debug/l6a9712v/armeabi-v7a/CMakeFiles/rebuild_cache.dir

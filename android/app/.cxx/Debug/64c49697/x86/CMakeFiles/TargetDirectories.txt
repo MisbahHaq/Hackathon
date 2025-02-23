@@ -1,0 +1,2 @@
+D:/FoodGo/FoodGo/android/app/.cxx/Debug/64c49697/x86/CMakeFiles/edit_cache.dir
+D:/FoodGo/FoodGo/android/app/.cxx/Debug/64c49697/x86/CMakeFiles/rebuild_cache.dir

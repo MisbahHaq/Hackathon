@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "153418648569",
-    "project_id": "foodgo-5f7d5",
-    "storage_bucket": "foodgo-5f7d5.firebasestorage.app"
+    "project_number": "20716126165",
+    "project_id": "hackathone-final-ea637",
+    "storage_bucket": "hackathone-final-ea637.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:153418648569:android:599d5c603dd9c837b64b28",
+        "mobilesdk_app_id": "1:20716126165:android:51fa73cdf36bbd7690475c",
         "android_client_info": {
-          "package_name": "com.example.foodgo"
+          "package_name": "com.example.foo"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAk5_zVbyeHAi9Uw_SapsWWnDHL1asWyJ8"
+          "current_key": "AIzaSyBuBAvpdgY6MiV1sx2sDfuVYWVAme_3Xs4"
         }
       ],
       "services": {
