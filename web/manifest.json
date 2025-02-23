@@ -1,6 +1,6 @@
 {
-    "name": "hack",
-    "short_name": "hack",
+    "name": "foodgo",
+    "short_name": "foodgo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
